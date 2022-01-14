@@ -7,6 +7,7 @@ import styled from 'styled-components';
    margin-top: 110vh;
    height: 90px;
    width: 100%;
+   color: #ffffff;
 
    .logo {
       justify-content: center;
@@ -27,6 +28,7 @@ import styled from 'styled-components';
       margin-right: 15px;
       margin-left: 15px;
       font-size: 1.2rem;
+      color: #ffffff;
    }
    span p {
       position: absolute;

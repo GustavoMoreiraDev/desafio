@@ -5,6 +5,6 @@ export const Env = styled.div`
     background-color: #480e63;
 
     .logo img {
-        width: 150px;
+        width: 130px;
     }
 `;

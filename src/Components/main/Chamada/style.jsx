@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-    margin-top: 12vh;
+    margin-top: 9vh;
     width: 100%;
     height: 105vh;
 
@@ -55,7 +55,6 @@ export const Container = styled.div`
         color: #fff;
         background: #167cdbd5;
         padding: 1rem 3rem;
-        border: solid 2px #7c0863;
         border-radius: 15px 25px;
         opacity: 0;
         cursor: pointer;
