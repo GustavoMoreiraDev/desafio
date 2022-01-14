@@ -11,7 +11,7 @@ const Hero = () => {
                         </div>
                         <div className="col-lg-6">
                             <h1 className="display-5 fw-bold lh-1 mb-4">Somos Criativos</h1>
-                            <p className="lead">Com excelência e muita criatividade, iniciamos nossa startup de Marketing Digital para suprir a nova demanda de pessoas insatisfeitas com seus resultados e mostrar que Marketing não é gasto, e sim investimento.</p>
+                            <p className="lead">Com excelência e muita criatividade, iniciamos nossa <em>Startup</em> de <em>Marketing Digital</em> para suprir a nova demanda de pessoas insatisfeitas com seus resultados e mostrar que <em> Marketing</em> não é gasto, e sim <em>Investimento</em>.</p>
                         </div>
                     </div>
                 </div>
