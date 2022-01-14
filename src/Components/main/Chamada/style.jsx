@@ -71,28 +71,26 @@ export const Container = styled.div`
     }
 
     @-webkit-keyframes moverBanner {
-    0% {
-        -webkit-transform: translateY(10rem) rotateY(-30deg);
-        transform: translateY(10rem) rotateY(-30deg);
-    }
-    100% {
-        -webkit-transform: translateY(0) rotateY(0);
-        transform: translateY(0) rotateY(0);
-        opacity: 1;
-    }
+        0% {
+            -webkit-transform: translateY(10rem) rotateY(-30deg);
+            transform: translateY(10rem) rotateY(-30deg);
+        }
+        100% {
+            -webkit-transform: translateY(0) rotateY(0);
+            transform: translateY(0) rotateY(0);
+            opacity: 1;
+        }
     }
 
     @keyframes moverBanner {
-    0% {
-        -webkit-transform: translateY(10rem) rotateY(-30deg);
-                transform: translateY(10rem) rotateY(-30deg);
+        0% {
+            -webkit-transform: translateY(10rem) rotateY(-30deg);
+                    transform: translateY(10rem) rotateY(-30deg);
+        }
+        100% {
+            -webkit-transform: translateY(0) rotateY(0);
+                    transform: translateY(0) rotateY(0);
+            opacity: 1;
+        }
     }
-    100% {
-        -webkit-transform: translateY(0) rotateY(0);
-                transform: translateY(0) rotateY(0);
-        opacity: 1;
-    }
-    }
-
-
 `;
