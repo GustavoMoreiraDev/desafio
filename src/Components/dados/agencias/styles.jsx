@@ -64,8 +64,8 @@ export const Container = styled.div`
     @media screen and (max-width: 585px) {
         margin-top: 234.8vmax;
     }
-    @media screen and (max-width: 536px) {
-        margin-top: 268.8vmax;
+    @media screen and (max-width: 550px) {
+        margin-top: 150.8vmax;
         h1 {
             font-size: 2rem;
         }
