@@ -3,15 +3,15 @@ import styled from "styled-components";
 export const Container = styled.div`
     
     width: 100%;
-    height: 30vmax;
-    color: #ffffff;
-    background-color: #907cc0;
+    height: 7.6vmax;
+    color:  #58bed8;
 
     .agencia-wrapper {
         margin-left: 8%;
         margin-right: 8%;
     }
     .text {
+        
         justify-content: center;
         text-align:center;
         display: flex;
