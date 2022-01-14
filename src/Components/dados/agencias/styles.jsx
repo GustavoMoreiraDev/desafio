@@ -64,14 +64,21 @@ export const Container = styled.div`
     @media screen and (max-width: 585px) {
         margin-top: 234.8vmax;
     }
-    @media screen and (max-width: 556px) {
-        margin-top: 278.8vmax;
+    @media screen and (max-width: 536px) {
+        margin-top: 268.8vmax;
         h1 {
             font-size: 2rem;
         }
     }
+    @media screen and (max-width: 488px) {
+        margin-top: 165.8vmax;
+        height: 15vmax;
+        h1 {
+            font-size: 1.5rem;
+        }
+    }
     @media screen and (max-width: 450px) {
-        margin-top: 145.8vmax;
+        margin-top: 150.8vmax;
         height: 15vmax;
     }
     @media screen and (max-width: 395px) {       
