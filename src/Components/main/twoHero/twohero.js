@@ -1,5 +1,4 @@
 import { Container } from "./styles";
-import Footer from './../../footer/Footer';
 
 const TwoHero = () => {
     return (
@@ -19,7 +18,6 @@ const TwoHero = () => {
                     </div>
                 </div>
             </Container>
-            <Footer/>
         </>
     )
 }

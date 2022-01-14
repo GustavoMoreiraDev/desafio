@@ -22,7 +22,7 @@ const Header = () => {
                                 <a className="nav-link active" href="#inicio" aria-current="page" >Inicio</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link active" href="#agencia" aria-current="page">Agência</a>
+                                <a className="nav-link active" href="#agencia" aria-current="page">Agências</a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link active" href="#planos" aria-current="page">Planos</a>

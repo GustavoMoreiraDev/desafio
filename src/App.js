@@ -1,16 +1,18 @@
 import React from "react";
-import { FaWhatsapp } from 'react-icons/fa';
 import Header from './Components/header/Header';
 import Main from "./Components/main/Main";
+import Icones from "./Components/main/icones/icones";
+import Dados from "./Components/dados/dados";
+import Botao from "./Components/botao/botao";
 
 const App = () => {
   return (
     <>
-        <Header/>
+      <Header/>
         <Main/>
-        <a id="link-topo" href="http://api.whatsapp.com/send?phone=5541988430759" target="_blank"  rel="noreferrer">
-          <FaWhatsapp/>
-        </a>
+          <Icones/>
+        <Dados/>
+      <Botao/>
     </>
   )
 }

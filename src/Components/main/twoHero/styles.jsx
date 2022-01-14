@@ -4,7 +4,7 @@ export const Container = styled.div`
     
     width: 100%;
     .boRder {
-        border: solid 2px #08dfe699;
+        border: solid 4px #08dfe699;
     }
 
     .btn-style {

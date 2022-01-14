@@ -39,8 +39,8 @@ const Icones = () => {
                             </div>
                         </div>
                     </div>
+                    <TwoHero/>
                 </section>
-                <TwoHero/>
             </Container>
         </>
     )
