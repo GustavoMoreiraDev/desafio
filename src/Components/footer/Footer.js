@@ -1,5 +1,5 @@
 import { Container } from "./style";
-import { FaFacebook, FaInstagram, FaLinkedin, FaWhatsapp } from 'react-icons/fa'
+import { FaFacebook, FaInstagram, FaWhatsapp } from 'react-icons/fa'
 const Footer = () => {
     return (
         

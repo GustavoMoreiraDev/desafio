@@ -5,14 +5,14 @@ const Chamada = () => {
         <>
             <Container>
 
-                <div class="img-wrapper">
+                <div className="img-wrapper">
                     <img src={require('./background.jpg')} alt=""/>
                 </div>
 
-                <div class="banner">
+                <div className="banner">
                     <h1>Alavanque seus Resultados</h1>
                         <p>saiba como levar sua empresa a um novo patamar de sucesso de vendas.</p>
-                    <a href="#planos"><button class="btn">Saiba Mais</button></a>    
+                    <a href="#planos"><button className="btn">Saiba Mais</button></a>    
                 </div>
 
             </Container>
