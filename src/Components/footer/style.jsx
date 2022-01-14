@@ -4,7 +4,7 @@ import styled from 'styled-components';
     
    background-color: #480e63;
    position: absolute;
-   margin-top: 110vh;
+   margin-top: 120vh;
    height: 90px;
    width: 100%;
    color: #ffffff;
