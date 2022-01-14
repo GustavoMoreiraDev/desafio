@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-    margin-top: 9vh;
+    margin-top: 6vh;
     width: 100%;
-    height: 105vh;
+    height: 95vh;
 
     .img-wrapper {
         width: 100%;

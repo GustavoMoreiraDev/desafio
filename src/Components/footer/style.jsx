@@ -39,7 +39,7 @@ import styled from 'styled-components';
    }
    @media screen and (max-width:850px) {
       .copyright {
-         font-size: 0.8rem ;
+         font-size: 0.5rem ;
       }
    }
 `; 
