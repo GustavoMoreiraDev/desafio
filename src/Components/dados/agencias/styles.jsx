@@ -77,6 +77,13 @@ export const Container = styled.div`
             font-size: 1.5rem;
         }
     }
+    @media screen and (max-width: 395px) {
+        
+        margin-top: 155.8vmax;
+        h1 {
+            font-size: 1.5rem;
+        }
+    }
     @media screen and (max-width: 375px) {
         margin-top: 200.8vmax;
         height: 20vmax;
