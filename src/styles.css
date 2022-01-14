@@ -7,9 +7,7 @@
   font-family: 'Roboto', sans-serif;
 }
 body {
-  background: #D3CCE3;
-  background: -webkit-linear-gradient(to right, #E9E4F0, #D3CCE3); 
-  background: linear-gradient(to right, #E9E4F0, #D3CCE3);
+  background:#22092e; 
   
 }
 ::-webkit-scrollbar-track {

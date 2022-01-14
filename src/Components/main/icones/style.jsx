@@ -1,11 +1,9 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-    
-    background:#22092e; 
-    color: #ecdcdc;
-
+      
     position: absolute;
+    color: #ecdcdc;
     width: 100%;
 
     .icones {
