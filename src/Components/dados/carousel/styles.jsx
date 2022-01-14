@@ -33,4 +33,10 @@ export const Container = styled.div`
             height: 45vmax;
         }
     }
+    @media screen and (max-width: 450px) {
+        
+        img {
+            height: 35vmax;
+        }
+    }
 `;
