@@ -70,4 +70,11 @@ export const Container = styled.div`
             font-size: 2rem;
         }
     }
+    @media screen and (max-width: 450px) {
+        margin-top: 200.8vmax;
+        height: 20vmax;
+        h1 {
+            font-size: 1.5rem;
+        }
+    }
 `;
