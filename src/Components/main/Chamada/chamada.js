@@ -5,7 +5,7 @@ const Chamada = () => {
         <>
             <Container>
 
-                <div className="img-wrapper">
+                <div className="img-wrapper" id="inicio">
                     <img src={require('./background.jpg')} alt=""/>
                 </div>
 

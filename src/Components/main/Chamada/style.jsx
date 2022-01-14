@@ -66,7 +66,7 @@ export const Container = styled.div`
     .banner button:hover {
         color: #ffffff;
         background-color:#480e63;
-        border: solid 2px #0d81eed4;
+        border: solid 2px #08dfe699;
         transition: 0.8s;
     }
 

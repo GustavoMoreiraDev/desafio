@@ -21,9 +21,4 @@ export const Container = styled.div`
     .titulo h1:hover {
         color: #830eb9;
     }
-    img {
-        border-radius: 20px;
-        opacity: 0.9;
-    }
-
 `;
