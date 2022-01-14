@@ -9,7 +9,7 @@ const Header = () => {
                 <div className="container-fluid">
                             
                     <a href="/" className="navbar-brand d-flex align-items-center logo">
-                        <img src={require('../../logo.png')} />  
+                        <img src={require('../../logo.png')} alt="Logo" />  
                     </a>
 
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -19,7 +19,7 @@ const Header = () => {
                     <div className="collapse navbar-collapse" id="navbarCollapse">                
                         <ul className="navbar-nav me-auto mb-2 mb-md-0">                 
                             <li className="nav-item">
-                                <a className="nav-link active" href="#" aria-current="page" >Inicio</a>
+                                <a className="nav-link active" href="/" aria-current="page" >Inicio</a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link active" href="#agencia" aria-current="page">Agência</a>
