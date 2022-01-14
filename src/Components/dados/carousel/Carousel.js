@@ -1,5 +1,5 @@
 import { Container } from './styles';
-import Footer from '../../footer/Footer';
+import Cards from '../Cards/Cards';
 
 export default function Carousel() {
     return (
@@ -13,10 +13,14 @@ export default function Carousel() {
                                     <button type="button" className="btn-carousel active" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" aria-current="true" aria-label="Slide 1"></button>
                                     <button type="button" className="btn-carousel" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
                                     <button type="button" className="btn-carousel" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                                    <button type="button" className="btn-carousel" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
                                 </div>
                                 <div className="carousel-inner">
                                     <div className="carousel-item active">
                                         <img src="https://www.digitalid.com.br/images/home_4/6.jpg" alt="TheRickAndMorty"/>
+                                    </div>
+                                    <div className="carousel-item">
+                                        <img src="https://www.digitalid.com.br/images/home_4/7.jpg" alt="TheRickAndMorty"/>
                                     </div>
                                     <div className="carousel-item">
                                         <img src="https://www.digitalid.com.br/images/home_4/7.jpg" alt="TheRickAndMorty"/>
@@ -38,7 +42,7 @@ export default function Carousel() {
                     </div>
                 </div>
             </Container>
-            <Footer/>
+            <Cards/>              
         </>
     )
 }

@@ -9,9 +9,10 @@ export const Container = styled.div`
     .agencia-wrapper {
         margin-left: 8%;
         margin-right: 8%;
+        border-bottom: solid 2px #58bed8;
     }
     .text {
-        
+              
         justify-content: center;
         text-align:center;
         display: flex;

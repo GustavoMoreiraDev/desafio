@@ -2,7 +2,6 @@ import styled from 'styled-components';
 
  export const  Container = styled.div`
    
-   margin-top: 95%;
    background-color: #480e63;
    position: absolute;
    height: 90px;
