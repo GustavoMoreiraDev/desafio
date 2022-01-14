@@ -1,4 +1,5 @@
 import { Container } from "./styles";
+import Agencias from '../../dados/agencias/Agencias';
 
 const TwoHero = () => {
     return (
@@ -17,6 +18,7 @@ const TwoHero = () => {
                         </div>
                     </div>
                 </div>
+                <Agencias/>
             </Container>
         </>
     )

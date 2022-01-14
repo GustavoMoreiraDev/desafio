@@ -1,3 +1,4 @@
+import Carousel from "../carousel/Carousel";
 import { Container } from "./styles";
 
 const Agencias = () => {
@@ -9,6 +10,7 @@ const Agencias = () => {
                         <h1>Visite Uma de Nossas Agências</h1>
                     </div>
                 </div>
+                <Carousel/>
             </Container>
         </>
     )

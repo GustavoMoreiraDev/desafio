@@ -3,7 +3,7 @@ import { Container } from './styles';
 export default function Carousel() {
     return (
         <Container>
-            <div className='carousel-wrapper'>
+            <div className='container-fluid'>
                 <div className='wrapper-card'>
                     <div className='carousel'>
                         <div id="carouselExampleIndicators" className="carousel slide" data-bs-ride="carousel">
