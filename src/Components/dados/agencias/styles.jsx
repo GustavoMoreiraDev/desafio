@@ -22,5 +22,17 @@ export const Container = styled.div`
         font-weight: 800;
         letter-spacing: 2px;
     }
+    @media screen and (max-width: 550px) {
+    
+    h1 {
+        font-size: 2rem;
+    }
+}
+    @media screen and (max-width: 550px) {
+    
+        h1 {
+            font-size: 1.5rem;
+        }
+    }
 
 `;

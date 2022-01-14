@@ -2,10 +2,11 @@ import styled from "styled-components";
 
 export const Container = styled.div`
 
+    margin-top: 25px;
     position: absolute;
     width: 100%;
-    height: 55vmax;
-    background-color: #907cc0;
+    height: 36vmax;
+    background-color: rgb(144, 124, 192);
 
     .carousel-wrapper {
         margin-left: 8%;
@@ -23,18 +24,6 @@ export const Container = styled.div`
         background-color:#22092e;
     }
     @media screen and (max-width: 625px) {
-        img {
-            height: 35vmax;
-        }
-    }
-    @media screen and (max-width: 550px) {
-        
-        img {
-            height: 45vmax;
-        }
-    }
-    @media screen and (max-width: 450px) {
-        
         img {
             height: 35vmax;
         }
